@@ -1,1 +1,1 @@
-This is a gGit testing repository
+This is a Git testing repository
