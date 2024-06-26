@@ -1,2 +1,2 @@
 This is a Git testing repository
-This line is on on myBranch
+This line is different on different branches
