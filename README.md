@@ -1,2 +1,2 @@
 This is a Git testing repository
-This line is on
+This line is on on master
